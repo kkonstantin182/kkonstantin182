@@ -14,3 +14,4 @@
 # Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkonstantin182&show_icons=true&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kkonstantin182?theme=dark&ext=contest&bg=1F233E&border=0C0E14)
