@@ -11,8 +11,6 @@
 - 📈 **2+ years** in analytics & data engineering.
 - ⚙️ Skilled in **dbt**, **BigQuery**, **ClickHouse**, and **Python**.
 
-📫 **Contact:** konstantin.kobranov@gmail.com
-
 # Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkonstantin182&show_icons=true&theme=tokyonight)
