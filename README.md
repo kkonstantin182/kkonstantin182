@@ -2,10 +2,6 @@
 
 💡 **Analytics (Data) Engineer** with a strong background in analytical modeling 📊, data pipelines 🔗, and automation 🤖.
 
-### 🚀 Highlights
-- 🧠 Delivered a **machine learning clustering project** for a leading global tobacco company → launched **3 new products**.
-- 🔄 Led the **migration of an ELT pipeline** from BigQuery to ClickHouse → improved performance & reduced infrastructure costs.
-
 ### 🛠 Background
 - 🔬 **2 years** as a Physics Research Scientist.
 - 📈 **2+ years** in analytics & data engineering.
