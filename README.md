@@ -1,6 +1,6 @@
 # Hi, I'm Konstantin 👋
 
-💡 **Analytics (Data) Engineer** with a strong background in analytical modeling 📊, data pipelines 🔗, and automation 🤖.
+💡 **Data Engineer** with a strong background in analytical modeling 📊, data pipelines 🔗, and automation 🤖.
 
 ### 🛠 Background
 - 🔬 **2 years** as a Physics Research Scientist.
